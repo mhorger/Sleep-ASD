@@ -10,19 +10,7 @@ output: output:
     #code_folding: hide
 ---
 
-<style type="text/css">
-.title {
-  display: none;
-}
 
-#getting-started img {
-  margin-right: 10px;
-}
-
-</style>
-
-<div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
 
 ```{r 3snl, echo=FALSE,dev='png'}
 
