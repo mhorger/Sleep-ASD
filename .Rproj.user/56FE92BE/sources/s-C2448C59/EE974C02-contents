@@ -23,11 +23,9 @@ output:
 </style>
 
 <div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
+<div class="col-sm-12">
 
-```{r 3snl, echo=FALSE,dev='png'}
 
-```
 
 # **Sleep and Autism Spectrum Disorder **
 
@@ -39,9 +37,10 @@ Sleep is important for our physical, mental, and emotional wellbeing. It may loo
 
 Sleep can be even more complicated for autistics. As many as 80% of individuals on the spectrum have sleep problems (Cohen et al., 2014). This website hopes to help with that. It is written for autistics, parents or caregivers, and anyone else who may be interested. It outlines sleep disruptions and disorders, highlights video testimonial of autistics experience with sleep, and offers options for diagnosis and treatment.
 
+```{r alien, echo=FALSE,  out.width = '100%'}
+knitr::include_graphics("sleeping-monster-vector-clipart.png")
+```
 
-
-![](C:\Users\mhorger\Documents\GitHub\Sleep&ASD\docs\images\sleeping-monster-vector-clipart.png)
 
 
 </div>
