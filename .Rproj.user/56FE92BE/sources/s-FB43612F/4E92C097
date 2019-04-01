@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3282179524",
+    "hash" : "0",
     "id" : "4E92C097",
-    "lastKnownWriteTime" : 1554150540,
-    "last_content_update" : 1554150540774,
+    "lastKnownWriteTime" : 1554151329,
+    "last_content_update" : 1554151329376,
     "path" : "~/GitHub/Papaja test/Papaja test.Rmd",
     "project_path" : null,
     "properties" : {
-        "cursorPosition" : "86,96",
-        "scrollLine" : "81"
+        "cursorPosition" : "25,2",
+        "scrollLine" : "25"
     },
     "relative_order" : 1,
     "source_on_save" : false,

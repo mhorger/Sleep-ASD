@@ -31,7 +31,7 @@ abstract: |
 keywords          : "naps, sleep, memory, development, Down syndrome"
 wordcount         : "X"
 
-bibliography      : ["r-references.bib"]
+bibliography      : ["r-references.bib", "mybib.bib"]
 
 floatsintext      : no 
 #this will move figure to the middle of the text
