@@ -2,6 +2,7 @@
 title: "Homepage"
 output: 
   html_document:
+    theme: flatly
     toc: true
     toc_float: true
     collapsed: false

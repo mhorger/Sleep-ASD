@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2074779343",
+    "hash" : "0",
     "id" : "F812D2CC",
-    "lastKnownWriteTime" : 1554148735,
-    "last_content_update" : 1554148735897,
+    "lastKnownWriteTime" : 1554149693,
+    "last_content_update" : 1554149693101,
     "path" : "~/GitHub/Sleep&ASD/DisorderedSleep.Rmd",
     "project_path" : "DisorderedSleep.Rmd",
     "properties" : {
-        "cursorPosition" : "25,0",
-        "scrollLine" : "8"
+        "cursorPosition" : "4,4",
+        "scrollLine" : "0"
     },
     "relative_order" : 3,
     "source_on_save" : false,

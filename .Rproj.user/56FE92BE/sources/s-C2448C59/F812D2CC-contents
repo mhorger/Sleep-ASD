@@ -2,9 +2,10 @@
 title: "Disrupted or disordered sleep"
 output:
   html_document:
+    theme: flatly
     toc: true
     toc_float: true
-    collapsed: false
+    collapsed: true
     number_sections: false
     toc_depth: 6
     #code_folding: hide
@@ -15,13 +16,16 @@ output:
 }
 
 #getting-started img {
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 </style>
 
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
+
+
+
 
 
 ## Disrupted Sleep	
