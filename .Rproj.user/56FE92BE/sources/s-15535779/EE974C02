@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "254324122",
+    "hash" : "512052515",
     "id" : "EE974C02",
-    "lastKnownWriteTime" : 1554090041,
-    "last_content_update" : 1554090041530,
+    "lastKnownWriteTime" : 1554090593,
+    "last_content_update" : 1554090593147,
     "path" : "~/GitHub/Sleep&ASD/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "12,0",
-        "scrollLine" : "8"
+        "cursorPosition" : "26,28",
+        "scrollLine" : "21"
     },
     "relative_order" : 3,
     "source_on_save" : false,

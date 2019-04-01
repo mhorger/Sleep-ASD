@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2694779374",
     "id" : "59A6171A",
-    "lastKnownWriteTime" : 1554089779,
-    "last_content_update" : 1554089779,
+    "lastKnownWriteTime" : 1554090446,
+    "last_content_update" : 1554090446869,
     "path" : "~/GitHub/Sleep&ASD/SleepSpectrum.Rmd",
     "project_path" : "SleepSpectrum.Rmd",
     "properties" : {
-        "cursorPosition" : "19,3",
-        "scrollLine" : "9"
+        "cursorPosition" : "19,60",
+        "scrollLine" : "13"
     },
     "relative_order" : 5,
     "source_on_save" : false,

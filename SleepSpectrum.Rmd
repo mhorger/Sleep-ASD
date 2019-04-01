@@ -17,7 +17,7 @@ output:
 **Anywhere from 40-80% of individuals with autism have sleep problems (Cohen et al., 2014)**
 
 
-![](C:\Users\mhorger\Documents\GitHub\Sleep&ASD\Smiley_green_alien_deep_sleep.png)
+![](C:\Users\mhorger\Documents\GitHub\Sleep&ASD\docs\images\Smiley_green_alien_deep_sleep.png)
 
 ## Why are sleep problems more common for autistics? 
 

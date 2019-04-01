@@ -1,16 +1,28 @@
 ---
 title: "Homepage"
-output: output:
+output: 
   html_document:
     toc: true
     toc_float: true
     collapsed: false
     number_sections: false
-    toc_depth: 6
+    toc_depth: 3
     #code_folding: hide
 ---
 
+<style type="text/css">
+.title {
+  display: none;
+}
 
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
 
 ```{r 3snl, echo=FALSE,dev='png'}
 
@@ -26,7 +38,9 @@ Sleep is important for our physical, mental, and emotional wellbeing. It may loo
 
 Sleep can be even more complicated for autistics. As many as 80% of individuals on the spectrum have sleep problems (Cohen et al., 2014). This website hopes to help with that. It is written for autistics, parents or caregivers, and anyone else who may be interested. It outlines sleep disruptions and disorders, highlights video testimonial of autistics experience with sleep, and offers options for diagnosis and treatment.
 
-![](C:\Users\mhorger\Documents\GitHub\Sleep&ASD\sleeping-monster-vector-clipart.png)
+
+
+![](C:\Users\mhorger\Documents\GitHub\Sleep&ASD\docs\images\sleeping-monster-vector-clipart.png)
 
 
 </div>
