@@ -5,7 +5,7 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "512052515",
+    "hash" : "0",
     "id" : "EE974C02",
     "lastKnownWriteTime" : 1554090593,
     "last_content_update" : 1554090593147,
@@ -13,7 +13,7 @@
     "project_path" : "index.Rmd",
     "properties" : {
         "cursorPosition" : "26,28",
-        "scrollLine" : "21"
+        "scrollLine" : "0"
     },
     "relative_order" : 3,
     "source_on_save" : false,
