@@ -1,6 +1,13 @@
 ---
 title: "What's it like to have sleep disruptions?"
-output: html_document
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 3
+    #code_folding: hide
 ---
 
 # Bramli
@@ -23,7 +30,7 @@ Read more at: https://www.spectrumnews.org/features/deep-dive/wide-awake-why-chi
 
 # AspieLife
 
-<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yqMu26QS8O4&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://youtu.be/yqMu26QS8O4" frameborder="0" allowfullscreen></iframe>
 
 # The Aspie World
 <iframe width="560" height="315" src="<iframe width="560" height="315" src="https://youtu.be/nJ-N2aODtAo" frameborder="0" allowfullscreen></iframe>

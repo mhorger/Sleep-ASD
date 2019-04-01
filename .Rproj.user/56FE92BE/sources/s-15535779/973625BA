@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554089238341.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "973625BA",
+    "lastKnownWriteTime" : 1554085984,
+    "last_content_update" : 1554085984,
+    "path" : "~/GitHub/Sleep&ASD/SleepSpectrum.Rmd",
+    "project_path" : "SleepSpectrum.Rmd",
+    "properties" : {
+        "cursorPosition" : "19,3",
+        "scrollLine" : "9"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
