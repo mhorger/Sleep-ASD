@@ -30,7 +30,7 @@ output:
 
 
 ```{r OGpoly, echo=FALSE,  out.width = '90%'}
-knitr::include_graphics("Polysom.png")
+knitr::include_graphics("Polysom.PNG")
 ```
 
 
@@ -47,7 +47,7 @@ knitr::include_graphics("Polysom.png")
 
 
 ```{r poly, echo=FALSE,  out.width = '100%'}
-knitr::include_graphics("newpoly.png")
+knitr::include_graphics("newpoly.PNG")
 ```
 
 
