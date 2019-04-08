@@ -14,6 +14,11 @@ output:
 <style type="text/css">
 .title {
   display: none;
+  color: red;
+}
+
+.tocify {
+  margin-top: 120px;
 }
 
 #getting-started img {
