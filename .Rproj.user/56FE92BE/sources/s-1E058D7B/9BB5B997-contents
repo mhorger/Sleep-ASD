@@ -38,7 +38,9 @@ knitr::include_graphics("Polysom.PNG")
 #### Polysomnographies can be difficult, especially for autistics. They typically require a person to sleep in a lab while connected to a lot of sensors, mostly on their head. 
 
 
-
+```{r polydiagram, echo=FALSE,  out.width = '100%'}
+knitr::include_graphics("polysomnography_diagram.png")
+```
 
 ####  Recently, researchers have developed a way to do polysomnographies at home. They designed a protocol specfically for people on the spectrum. 
 
