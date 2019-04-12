@@ -28,6 +28,20 @@ output:
 
 ## How does someone find out if they have disordered sleep? 
 
+To start, you can check certain things including....
+
+- underlying medical problems like tonsillitis or seizures
+
+- irregular bedtime routines
+
+- food and/or environmental allergies 
+
+(Devnani & Hegde, 2015)
+
+
+
+### If sleep is still causing a problem, you may need to be screened for a sleep disorder. 
+
 
 ```{r OGpoly, echo=FALSE,  out.width = '70%'}
 knitr::include_graphics("Polysom.PNG")
@@ -38,7 +52,9 @@ knitr::include_graphics("Polysom.PNG")
 #### Polysomnographies can be difficult, especially for autistics. They typically require a person to sleep in a lab while connected to a lot of sensors, mostly on their head. 
 
 
-```{r polydiagram, echo=FALSE,  out.width = '100%'}
+#### This is what a polysomnography may look like. 
+
+```{r polydiagram, echo=FALSE,  out.width = '80%'}
 knitr::include_graphics("polysomnogram_diagram.png")
 ```
 
@@ -58,7 +74,7 @@ ________________________________________________________________________
 
 
 
-```{r poly, echo=FALSE,  out.width = '100%'}
+```{r poly, echo=FALSE,  out.width = '75%'}
 knitr::include_graphics("newpoly.PNG")
 ```
 
@@ -67,4 +83,11 @@ knitr::include_graphics("newpoly.PNG")
 
 ## What treatments are there for sleep problems? 
 
-With a comprehensive sleep evaluation in hand, a clinician can tailor the best combination of behavioral therapies, medications or other treatments to each individual with autism. For instance, in cases in which bad sleep habits are involved, children can benefit when parents establish better routines — from minimizing caffeine intake to restricting video games before bed.
+To start, it is good to establish consistent bedtime routines. This can help "sleep train" children or adolescents and is particularly helpful for parents. Basically, caregivers complete the bedtime routine and, if their child does not fall asleep, go back to check on them, but only for short periods of time. During these check-ins, parents should be gentle but firm and reiterate the fact that it is bedtime. Things may get worse before they get better, but with time parents should be able to gradually distance themselves from this routine. 
+
+
+More involved interventions include medications such as benzodiazepines and diphenhydramine. Your doctor should be consulted before taking medication. 
+
+
+
+Specific sleep disorders also have specific treatments. For example, a CPAP machine can help people with sleep disordered breathing. 
