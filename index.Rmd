@@ -3,7 +3,7 @@ title: "Homepage"
 output: 
   html_document:
     theme: flatly
-    toc: true
+    toc: false
     toc_float: true
     collapsed: false
     number_sections: false
