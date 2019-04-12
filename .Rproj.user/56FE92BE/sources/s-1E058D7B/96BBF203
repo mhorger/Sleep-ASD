@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555032527836.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "385021045",
+    "id" : "96BBF203",
+    "lastKnownWriteTime" : 1555089059,
+    "last_content_update" : 1555089059033,
+    "path" : "~/GitHub/Sleep&ASD/DisorderedSleep.Rmd",
+    "project_path" : "DisorderedSleep.Rmd",
+    "properties" : {
+        "cursorPosition" : "43,0",
+        "scrollLine" : "25"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
