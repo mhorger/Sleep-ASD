@@ -2,7 +2,7 @@
 
 library(shiny)
 library(rsconnect)
-rsconnect::deployApp('C:\Users\mhorger\Documents\GitHub\Sleep&ASD\SurveySays\app.R')
+
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
@@ -14,10 +14,11 @@ ui <- fluidPage(
   sidebarPanel("Thanks for checking out our site!"),
 
  # Show a plot of the generated distribution
-   mainPanel("What would you like to learn more about?",
-             checkboxGroupInput("checkGroup", label = h3("Choose as many as apply."), 
+   mainPanel(" ",
+             checkboxGroupInput("checkGroup", label = h3 ("What would you like to learn more about?"), 
                       choices = list("If I have a sleep disorder" = 1, "The treatment for sleep disturbances" = 2, 
-                                     "What's going on with autism and sleep" = 3, "How other autistics deal with sleep problems" = 4),
+                                     "What's going on with autism and sleep" = 3, "How other autistics deal with sleep problems" = 4,
+                                     "How parents or family members deal with children's sleep problems" = 5),
                       selected = 1),
       hr(),
    fluidRow(column(3)),
@@ -26,7 +27,7 @@ ui <- fluidPage(
                        actionButton(inputId='ab1', label="Sleep problems and ASD symptoms", 
                                            icon = icon("th"), 
                                            onclick ="window.open('https://iancommunity.org/ssc/sleep-problems-linked-more-severe-autism-symptoms', '_blank')"),
-                       actionButton(inputId='ab1', label="Treating sleep disorders", 
+                       actionButton(inputId='ab1', label="Treating  sleep  disorders", 
                                            icon = icon("th"), 
                                            onclick ="window.open('https://www.tuck.com/autism-spectrum-disorder-and-sleep/#treatment_options_for_asd_related_sleep_problems', '_blank')"),
                        actionButton(inputId='ab1', label="Statement from the American Academy of Pediatrics", 

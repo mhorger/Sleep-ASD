@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555364912791.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1804247981",
+    "id" : "61C6BAD3",
+    "lastKnownWriteTime" : 1555366067,
+    "last_content_update" : 1555366067827,
+    "path" : "~/GitHub/Sleep&ASD/Survey.Rmd",
+    "project_path" : "Survey.Rmd",
+    "properties" : {
+        "cursorPosition" : "39,64",
+        "last_setup_crc32" : "7ECA3DFDbb338d19",
+        "scrollLine" : "27",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

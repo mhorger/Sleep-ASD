@@ -13,7 +13,7 @@ navbar:
     - text: "What if I have problems sleeping?"
       href: WhatNext.html
     - text: "Survey and additional resources"
-      href: app.R
+      href: Survey.html
 
 
 output_dir: "docs"
