@@ -28,7 +28,7 @@ output:
 
 
 
-## Disrupted Sleep	
+# Disrupted Sleep	
 Most common problems: 
 
 1. trouble falling asleep 
@@ -104,4 +104,7 @@ These occur when there is a disruption or misalignment between the timing of an 
 
 ####Advanced and delayed sleep latency  
 Two examples are falling asleep too early in the night- like wanting to go to bed at 4pm- or falling asleep too late- such as not feeling sleepy until 2am. 
+
+
+(Kryger, Roth, & Dement, 2017)
 

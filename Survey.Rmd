@@ -32,9 +32,6 @@ knitr::opts_chunk$set(echo = TRUE)
 <div class="row" style="padding-top: 100px;">
 <div class="col-sm-12">
 
-```{r}
 
-
-```
 
 <iframe src="https://mhorger.shinyapps.io/surveysays/" height="900" width="800"></iframe>
