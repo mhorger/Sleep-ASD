@@ -11,7 +11,7 @@
 
 
 
-<title>Sleep and the spectrum</title>
+<title>Homepage</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -298,9 +298,6 @@ $(document).ready(function () {
 <li>
   <a href="WhatNext.html">What if I have problems sleeping?</a>
 </li>
-<li>
-  <a href="app.R">Survey and additional resources</a>
-</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         
@@ -313,7 +310,7 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Sleep and the spectrum</h1>
+<h1 class="title toc-ignore">Homepage</h1>
 
 </div>
 
@@ -321,6 +318,11 @@ $(document).ready(function () {
 <style type="text/css">
 .title {
   display: none;
+  color: red;
+}
+
+.tocify {
+  margin-top: 120px;
 }
 
 #getting-started img {
@@ -328,33 +330,13 @@ $(document).ready(function () {
 }
 
 </style>
-<div class="row" style="padding-top: 125px;">
+<div class="row" style="padding-top: 100px;">
 <div class="col-sm-12">
-
-
-<div id="how-frequently-do-sleep-problems-occur-on-the-spectrum" class="section level2">
-<h2>How frequently do sleep problems occur on the spectrum?</h2>
-<p><strong>Anywhere from 40-80% of individuals with autism have sleep problems (Cohen et al., 2014)</strong></p>
-<p>One review (Devnani &amp; Hegde, 2015) surveyed research from 1995-2015 and found that:</p>
-<p>54% of autistics had bedtime resistance problems</p>
-<p>56% had insomnia</p>
-<p>53% experienced parasomnias</p>
-<p>25% had sleep disordered breathing</p>
-<p>45% had morning arising problems and</p>
-<p>31% reported daytime sleepiness.</p>
-<p><img src="Smiley_green_alien_deep_sleep.png" width="60%" /></p>
-<p><img src="Smiley_green_alien_deep_sleep.png" width="60%" /></p>
-</div>
-<div id="why-are-sleep-problems-more-common-for-autistics" class="section level2">
-<h2>Why are sleep problems more common for autistics?</h2>
-<p>Some researchers believe sleep problems are an additional symptom of ASD. For example, they may stem from differences in the brain or brain structures, increased activity levels, or decreased sensitivity to external cues like time of day and bedtime routine.</p>
-<p>Others think that disrupted sleep is a byproduct of other, co-occuring disorders such as gastrointestinal disorders or seizures. Sleep may also be impacted by medications. (Cohen et al., 2018)</p>
-<p>The severity of sleep problems are related to severity of ASD symptoms. However, the direction of this relationship is unclear- more severe symptoms may trigger disordered sleep or vice versa.</p>
-</div>
-<div id="what-are-the-effects-of-disrupted-sleep" class="section level2">
-<h2>What are the effects of disrupted sleep?</h2>
-<p>Poor sleep negatively effects physical health, emotion regulation, cognition, and behavior.</p>
-<p>It can exacerbate symptoms of ASD including restricted and repetitive behaviors, insistence on sameness, and externalizing behaviors</p>
+<h1 id="sleep-and-autism-spectrum-disorder"><strong>Sleep and Autism Spectrum Disorder </strong></h1>
+<h2 id="getting-started"><strong>Getting started</strong></h2>
+<p>Sleep is important for our physical, mental, and emotional wellbeing. It may look easy, but sleep can be a major issue for people. Some people struggle with falling asleep; others feel sleepy all the time.</p>
+<p>Sleep can be even more complicated for autistics. As many as 80% of individuals on the spectrum have sleep problems (Cohen et al., 2014). This website hopes to help with that. It is written for autistics, parents or caregivers, and anyone else who may be interested. It outlines sleep disruptions and disorders, highlights video testimonial of autistics experience with sleep, and offers options for diagnosis and treatment.</p>
+<p><img src="sleeping-monster-vector-clipart.png" width="100%" /></p>
 </div>
 
 

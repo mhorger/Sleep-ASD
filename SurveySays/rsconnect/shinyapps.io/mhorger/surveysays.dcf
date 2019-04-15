@@ -1,0 +1,10 @@
+name: surveysays
+title:
+username:
+account: mhorger
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 866834
+bundleId: 2013775
+url: https://mhorger.shinyapps.io/surveysays/
+when: 1555363668.99137

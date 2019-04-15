@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555349634747.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "201DDDFC",
+    "lastKnownWriteTime" : 1555364709,
+    "last_content_update" : 1555364709690,
+    "path" : "~/GitHub/Sleep&ASD/SurveySays/app.R",
+    "project_path" : "SurveySays/app.R",
+    "properties" : {
+        "cursorPosition" : "20,15",
+        "scrollLine" : "11"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
