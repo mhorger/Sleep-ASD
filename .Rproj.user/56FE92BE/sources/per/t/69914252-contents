@@ -1,0 +1,93 @@
+---
+title: "What's it like to have sleep disruptions?"
+output:
+  html_document:
+    theme: flatly
+    toc: false
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 3
+    #code_folding: hide
+---
+```{r, echo=FALSE}
+library("htmltools")
+library("vembedr")
+```
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+<div class="row" style="padding-top: 125px;">
+<div class="col-sm-12">
+
+
+
+
+
+# Bramli
+
+###Diagnosed with sleep apnea 
+“Bramli had 15 hypopnea and apnea episodes and 63 micro-arousals in just one night.” 
+
+###She had surgery to remove her tonsils 
+
+“The girl has been sleeping more deeply and is able to make it through the days with less crying. She is less manic, with more stable levels of energy, her mother says.” 
+
+###But she continued to have problems with falling asleep
+
+“Finding the right combination of solutions can be a journey, as Haley Bennett and her husband have learned. The family always had well-structured bedtime routines, and melatonin therapy didn’t make much difference for Bramli.”
+
+
+```{r bramli, echo=FALSE,  out.width = '60%'}
+knitr::include_graphics("Bramli.png")
+```
+
+
+Read more at: https://www.spectrumnews.org/features/deep-dive/wide-awake-why-children-with-autism-struggle-with-sleep/
+
+
+# The Aspie World
+
+TheAspieWorld is a youtuber who made a video all about his experience with sleep problems. He talks about waking up a lot during the night and feeling that his sleep is light and unsatisfactory. He also struggles with falling asleep because it is hard for him to disengage his attention from a task. 
+
+```{r aspieworld, echo=FALSE,  out.width = '100%'}
+
+embed_url("https://www.youtube.com/watch?v=nJ-N2aODtAo")
+```
+
+
+# AspieLife
+
+AspieLife is also a youtuber who describes his struggles with sleep. He talks about the way sensory issues impact his sleep routine and how long this routine can take. He brings up the fact that it can be hard to stop working on or thinking about something in order to fall asleep. 
+
+```{r aspielife, echo=FALSE,  out.width = '100%'}
+
+embed_url("https://www.youtube.com/watch?v=yqMu26QS8O4&t=1s")
+```
+
+# Kreed
+
+Kreed is a nonverbal teenager with ASD. He communicates with his mom (using AAC) about his sleep problems. He has trouble falling asleep because he has so many thoughts.
+
+```{r kreed, echo=FALSE,  out.width = '100%'}
+
+embed_url("https://www.youtube.com/watch?v=ForIBiHTi80&t=210s")
+```
+
+# Abigail
+
+Abigail's story is told by her parents. They reflect on her occasional sleep disturbances and how they effect her. 
+
+```{r abigail, echo=FALSE,  out.width = '100%'}
+
+embed_url("https://youtu.be/zMSVQdyLbqc")
+```
